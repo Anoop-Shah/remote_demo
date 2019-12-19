@@ -3,6 +3,7 @@ print("Content-Type: text/plain\n\n")
 import psycopg2
 from config import config
 
+##First commit
 def connect():
     """ Connect to the PostgreSQL database server """
     conn = None
