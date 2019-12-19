@@ -6,6 +6,7 @@ from config import config
 ##First commit
 #second commit
 #third commit
+#$$$$$Mergeed commit
 def connect():
     """ Connect to the PostgreSQL database server """
     conn = None
