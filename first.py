@@ -4,6 +4,7 @@ import psycopg2
 from config import config
 
 ##First commit
+#$$$$$Mergeed commit
 def connect():
     """ Connect to the PostgreSQL database server """
     conn = None
